@@ -7,4 +7,5 @@ function NewMeetupPage(){
     </section>);
 }
 
+
 export default NewMeetupPage;
